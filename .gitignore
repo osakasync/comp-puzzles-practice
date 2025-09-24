@@ -1,0 +1,11 @@
+input.txt
+*.txt
+
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+.vscode/
+.idea/
